@@ -1,5 +1,7 @@
 # Example Project with GoogleTest as submodule
 
+Use `git clone --recursive <git url>` to clone project and GoogleTest submodule.
+
 ## Building and Testing
 ```
 mkdir build
