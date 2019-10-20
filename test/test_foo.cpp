@@ -1,7 +1,7 @@
 // Copyright 2019, CLD.
 #include <iostream>
 #include "gtest/gtest.h"
-#include "include/foo.h"
+#include "foo.h"
 
 
 // IndependentMethod is a test case - here, we have 2 tests for this 1 test case

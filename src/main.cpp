@@ -1,7 +1,7 @@
 // Copyright 2019, CLD.
 #include <iostream>
 #include <array>
-#include "include/foo.h"
+#include "foo.h"
 
 
 int main() {

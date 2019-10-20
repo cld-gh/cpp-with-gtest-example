@@ -1,5 +1,5 @@
 // Copyright 2019, CLD.
-#include "include/foo.h"
+#include "foo.h"
 
 
 int add(int i, int j) {
